@@ -1,10 +1,10 @@
 
 # Project Name: Sum Program Using C and Python Programming Languages
 
-```bash
-This Project: 
+
+- This Project: 
 Addition Program or Sum / Sumation is create for a result that shows short mathematics addition of two value.
-```
+
 
 ## Programming Languages Used:  
 ``` - C ```  
