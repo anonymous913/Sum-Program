@@ -12,10 +12,10 @@ Addition Program or Sum / Sumation is create for a result that shows short mathe
 
 ## Requirements for Running this Program:
 ```bash
-- You must have installed VSCode - Visual Studio Code Editor
-- You must have installed MinGW Installation Manager 
-- You must have installed C/C++ Extension on Visual Studio Code
-- You must have installed Code Runner Extension on Visual Studio Code
+- You must have installed VSCode - [Visual Studio Code Editor] (https://code.visualstudio.com/Download) 
+- You must have installed [MinGW Installation Manager] (https://sourceforge.net/projects/mingw/) 
+- You must have installed [C/C++ Extension Pack](https://marketplace.visualstudio.com/items?itemName=ms-vscode.cpptools-extension-pack) on Visual Studio Code
+- You must have installed [Code Runner Extension](https://marketplace.visualstudio.com/items?itemName=formulahendry.code-runner) on Visual Studio Code
 - You must have configured gcc compiler on your environment
 - After install and configured all listed above instructions you are ready to go.
 
