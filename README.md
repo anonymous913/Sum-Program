@@ -6,7 +6,7 @@ This Project:
 Addition Program or Sum / Sumation is create for a result that shows short mathematics addition of two value.
 ```
 
-## Languages Used:  
+## Programming Languages Used:  
 ``` - C ```  
 ``` - Python ```
 
@@ -16,6 +16,9 @@ Addition Program or Sum / Sumation is create for a result that shows short mathe
 - You must have installed [MinGW Installation Manager](https://sourceforge.net/projects/mingw/) 
 - You must have installed [C/C++ Extension Pack ](https://marketplace.visualstudio.com/items?itemName=ms-vscode.cpptools-extension-pack) on Visual Studio Code
 - You must have installed [Code Runner Extension](https://marketplace.visualstudio.com/items?itemName=formulahendry.code-runner) on Visual Studio Code
+- You must have installed [Python](https://www.python.org/downloads/)
+- You must have installed [Python Extension](https://marketplace.visualstudio.com/items?itemName=ms-python.python)
+- You must have installed [Python Debugger Extension](https://marketplace.visualstudio.com/items?itemName=ms-python.debugpy)
 - You must have configured gcc compiler on your environment
 - After install and configured all listed above instructions you are ready to go.
 
